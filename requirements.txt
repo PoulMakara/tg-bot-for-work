@@ -1,3 +1,2 @@
-   aiogram==3.x.x (или актуальную версию)
-   requests
-   python-dotenv
+aiogram
+python-dotenv

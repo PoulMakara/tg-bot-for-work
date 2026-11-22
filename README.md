@@ -26,4 +26,4 @@
 6. Запустить: python bot.py
 
 ---
-*Автор: [Макаров Павел]((https://spb.hh.ru/resume/f2a46cceff115367ed0039ed1f6848614e3639)*
+*Автор: [Макаров Павел](https://spb.hh.ru/resume/f2a46cceff115367ed0039ed1f6848614e3639)*

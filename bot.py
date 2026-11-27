@@ -23,7 +23,7 @@ async def cmd_start(message: types.Message):
             [InlineKeyboardButton(text = "Обо мне 🚧 В разработке", callback_data = "in_dev")],
             [InlineKeyboardButton(text="Мои соцсети 🚧 В разработке", callback_data="in_dev")],
             [InlineKeyboardButton(text="Заказать бота 🚧 В разработке", callback_data="in_dev")],
-            [InlineKeyboardButton(text="Связаться со мной", url="https://t.me/pmjobhunt")]
+            [InlineKeyboardButton(text="Связаться со мной", url="https://t.me/pmjobhunt"]
         ]
     )
     await message.answer("""Привет! Если вы читаете это сообщение,
